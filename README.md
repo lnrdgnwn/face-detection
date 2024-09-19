@@ -1,4 +1,5 @@
 # Face Detection Project
+<img src="./test.jpg" alt="test" width="75%" height="75%">
 
 This is the main program for face detection using OpenCV Python. Follow the instructions below to set up your environment and run the project.
 
